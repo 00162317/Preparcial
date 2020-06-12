@@ -4,6 +4,9 @@ using Npgsql;
 namespace Preparcial.Controlador
 {
     public static class ConexionBD
+    
+    //Commit 1 - RobertoHer
+    
     {
         private static string cadenaC = "Server=127.0.0.1;" +
                                         "Port=5432;" +
